@@ -14,7 +14,7 @@ class Scraper
     end
     binding.pry
   end
-
+#Thank You Candice!
 Scraper.new.get_page
 
 
